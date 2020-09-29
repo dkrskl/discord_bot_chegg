@@ -4,7 +4,7 @@ This is something that I was working on to learn nodejs. Also it is fun to mess 
 
 Please not this project is very very **incomplete**.
 
-Features:
+What's in it:
 - Discord boilerplate
 - Automatically logs in to chegg.com
 - !relog to quickly relog if there's a problem
